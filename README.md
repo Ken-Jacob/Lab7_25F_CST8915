@@ -1,6 +1,7 @@
 # Lab 7 - CST8915 Full-stack Cloud-native Development: Introduction to Kubernetes Basics
 
 **Student:** Ken Biju Jacob
+
 **Student ID:** 041171140
 
 ## 🧩 RabbitMQ Configuration Analysis
